@@ -12,7 +12,7 @@ Basically it is based on Daily Programming Challenges, Basically the use of rand
 Here used of json files, i stored lots of question according to level.
 
 # Random module
-Here uses of random module for randomly pic the data from json files.
+Here uses of random module for randomly pick the data from json files.
 
 #pprint
 Here we uses of pprint for data structure is look like pretty.
